@@ -217,7 +217,7 @@ AirWise/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AirWise.git
+git clone https://github.com/Amogh-S-Acharya/AirWise.git
 cd AirWise
 ```
 
